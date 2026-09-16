@@ -1,0 +1,17 @@
+.caixa{
+    width: 600px;
+    height: 100%;
+    border: 2px solid slateblue;
+    
+}
+
+h4{
+    display: inline-block;
+    border: 2px solid yellow;
+    background-color: violet;
+    position: sticky;
+}
+.julia-feia{
+    position: sticky;
+    top: 0;
+}
