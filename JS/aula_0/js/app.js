@@ -12,9 +12,9 @@ console.log("Hello world!");
 */
 //utilizando prompt
 /*
-let nome = prompt("Qual seu nome?")
+nome = prompt("Qual seu nome?")
 */
-/*
+/*let 
 console.log(nome)
 */
 /*
